@@ -1,0 +1,16 @@
+<HotelCatalog>
+	 <hotel id="1">
+        <name>CONGRESS PLAZA </name>
+        <description>Located in the Chicago Loop, Congress Plaza Hotel is 600 metres from the Chicago Board of Trade Building and Willis Tower. The hotel features 23 meeting and event spaces for all group sizes and complimentary WiFi throughout the property.</description>
+        <avg_rating>3.61</avg_rating>
+        <price>718</price>
+        <address>520 SOUTH MICHIGAN AVENUE, CHICAGO, 60605</address>
+		<city>CHICAGO</city>
+		<image>img/1-htl-default.jpg</image>
+		<checkin>17:00<checkin>
+		<checkout>12:00</checkout>
+		</hotel>
+	
+	
+</HotelCatalog>
+    
